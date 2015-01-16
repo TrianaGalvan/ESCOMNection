@@ -1,0 +1,75 @@
+/* 
+    Document   : conf-general
+    Created on : 23-oct-2014, 15:26:03
+    Author     : trianaandaluciaprietogalvan
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+.contenido{
+    margin-top: 40px;
+    margin-right: 40px;
+    
+}
+
+.seccion-top-contrasena{
+    margin-top: 40px;
+}
+
+.input-cambiar-contrasena{                          
+    margin-left: 20px
+}
+
+.input-repetir-contrasena{
+    margin-left:27px;
+    margin-top:10px;
+}
+
+.seccion-top-perfil{
+    margin-top: 50px;
+}
+
+.section-load-image-top{
+    margin-top: 10px;
+}
+
+.section-bajas-top{
+    margin-top: 60px;
+}
+.boton-top{
+    margin-top: 20px;
+    margin-left: 800px;
+}
+
+.vertical-line{
+    padding-right:20px; 
+    border-right: 1px solid #ccc; 
+    height: 60px; 
+    border-color:#F2D575; 
+    border-width: 5px;
+}
+
+.center_div{
+     margin-left: 180px;/* value of your choice which suits your alignment */
+}
+
+.titulo{
+  margin-left:50px;
+}
+
+.imagenes{
+    width:50px;
+    height:50px;
+}
+
+.nombre-icono{
+   margin-left: 70px;
+}
+
+.boton-icono{
+    margin-left:95px;
+}
+
+.row-iconos{
+    margin-top: 25px;
+}

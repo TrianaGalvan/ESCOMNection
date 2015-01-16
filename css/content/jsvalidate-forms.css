@@ -1,0 +1,15 @@
+/* 
+    Document   : jsvalidate-forms
+    Created on : 26-oct-2014, 22:20:32
+    Author     : trianaandaluciaprietogalvan
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+span{
+    color: #ff0000;
+    font-family: "Lucida Sans Unicode","Trebuchet MS",Tahoma,sans-serif;
+    font-size: 10px;
+    margin-left: 450px;
+    display: inline-block;
+}

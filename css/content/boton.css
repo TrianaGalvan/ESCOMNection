@@ -1,0 +1,38 @@
+.ph-float {
+  
+  float: left;
+    padding: 15px 10px 10px;
+    text-align: center;
+    width: 180%;
+
+}
+
+.ph-button {
+	
+    border-radius: 6px;
+    border-style: solid;
+    border-width: 0 0 1px;
+    box-shadow: 0 -1px 0 rgba(255, 255, 255, 0.1) inset;
+    color: #ffffff;
+    cursor: pointer;
+    display: inline-block;
+    font-family: "Gotham Rounded A","Gotham Rounded B",Helvetica,Arial,sans-serif;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 700;
+    overflow: hidden;
+    padding: 5px 15px 12px;
+    text-align: center;
+    text-decoration: none;
+    text-overflow: ellipsis;
+    transition: all 200ms ease-in-out 0s;
+    white-space: nowrap;
+	
+}
+
+.ph-btn-green {
+
+    border-color: #059F86;
+	background-color: #00c6a5;
+
+}

@@ -1,0 +1,22 @@
+/* 
+    Document   : escolar
+    Created on : 30-oct-2014, 13:16:22
+    Author     : trianaandaluciaprietogalvan
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+h4,h5,p{
+    text-align: center;
+}
+
+button{
+    margin-left: 140px;
+}
+
+.boton{
+    margin-left: 140px;
+}
+
+
+
